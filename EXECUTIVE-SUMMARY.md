@@ -45,13 +45,15 @@ Every regenerative neighborhood rests on 5 integrated systems:
 
 The RNF uses a spiral (not linear) model — phases overlap and repeat as the community learns:
 
-1. **Feasibility Validation Spiral** — Site assessment, initial design, group alignment
-2. **Proof-of-Concept Spiral** — Pilot projects, small-scale implementations
-3. **Capital Optimization Spiral** — Funding, investment, resource mobilization
-4. **Construction & Activation Spiral** — Buildout, systems integration
-5. **Deep Design Phase** — Final master planning, detailed specifications
+1. **SPIRAL 1: Proof-of-Concept** (Months 0–6) — Validate the vision is possible. Assemble core team, explore feasibility broadly, build shared commitment.
+2. **SPIRAL 2: Feasibility Validation** (Months 3–12) — Validate site, design, and prerequisites. Site assessment, engineering studies, financial modeling.
+3. **SPIRAL 3: Capital Optimization** (Months 9–15) — Secure funding. Investor relations, grants, community financing, capital closing.
+4. **SPIRAL 4: Construction & Operation** (Months 12–36) — Build the neighborhood. Systems integration, construction, operations go live.
+5. **SPIRAL 5: Continuous Regeneration** (Year 2+) — Live, learn, and evolve. Culture activation, feedback loops, ongoing improvement.
 
-**Timeline:** 22–68 months from start to move-in, depending on group readiness and resource availability.
+**Timeline:** 22 months (best case) → 45 months (typical) → 68 months (conservative). Most realistic: 3–4 years from idea to occupancy.
+
+> ⚠️ **Spirals overlap.** Spiral 2 begins before Spiral 1 ends. Spiral 4 begins before Spiral 3 closes. The model is intentionally parallel, not sequential.
 
 ---
 
